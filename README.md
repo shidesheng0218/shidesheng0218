@@ -67,6 +67,11 @@ This is how I translate payments and safety experience into AI products:
 
 `TypeScript` · `Swift / SwiftUI` · `Tauri` · `Node.js` · `React` · `MCP` · `CLI tools` · `GitHub Actions`
 
+## 🌐 Find me
+
+- X: [@shidesheng0218](https://x.com/shidesheng0218)
+- 小红书: **海豚号角Delphic** (`DolphinHorn_218`)
+
 ## 🤝 Collaboration
 
 I welcome collaboration on practical AI developer tools, local-first desktop software, and governed agent workflows.
